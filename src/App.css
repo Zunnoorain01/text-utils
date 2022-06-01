@@ -1,0 +1,22 @@
+.summary{
+    /* background-color:rgb(100, 99, 99); */
+    /* border: 1px solid grey; */
+    height: 40px;
+    float: right;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.summary button{
+    margin-right: 0;
+}
+.summary .clear-text{
+    margin-right: 20px;
+}
+
+
+
+.preview p{
+    text-align: justify;
+}
